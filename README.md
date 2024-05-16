@@ -18,3 +18,5 @@ pip install tqdm
 启动Power Shall,输入以下指令即可执行脚本文件自动批处理
 
 python batch_process_images.py
+
+![image](https://github.com/fuaneng/batch_process_images/assets/136696600/45055fc2-dc4c-4bcf-a20f-ebe59792cc26)
