@@ -6,6 +6,12 @@ Transparent image adds white background
 input_folder = r'C:\Nathat_work\pchuli\input' #该路径改为你当前需要处理图片的文件夹
 
 output_folder = r'C:\Nathat_work\pchuli\output' #该路径改为你处理图片后输出的文件夹
+# 依赖库
+确保你的 Python 环境已经安装了 Pilow库。
+
+如果没有安装，可以使用以下命令安装:
+
+pip install pillow
 # 执行脚本
 启动Power Shall,输入以下指令即可执行脚本文件自动批处理
 
