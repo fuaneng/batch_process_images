@@ -19,4 +19,5 @@ pip install tqdm
 
 python batch_process_images.py
 
-![image](https://github.com/fuaneng/batch_process_images/assets/136696600/45055fc2-dc4c-4bcf-a20f-ebe59792cc26)
+![image](https://github.com/fuaneng/batch_process_images/assets/136696600/7174fda4-17e8-430c-9a0b-68229ea6193f)
+
